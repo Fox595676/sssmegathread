@@ -3,15 +3,15 @@
 
 # Games
 
-The following games/sites are suggested by everyone, request editing or send me or Luca requests to add more.
+Everyone suggests the following games/sites, request editing or send me or Luca requests to add more.
 
 | Game/Site | Requires internet | Players | Needs Proxy | Link(s) |
 | --------- | ----------------- | ------- | ----------- | ------- |
-| Eaglecraft | No | 1-∞ | no | ByWorks Drive |
-| Deadshot | Yes | 2-8 | yes | deadshot.io |
-| WatchDocumentaries | Yes | 1-2 | no | watchdocumentaries.com |
-| Utopia games | Yes/No | 1 | Is the proxy | Go here then click Games |
-| Doom | Yes | 1 | no | archive.org |
+| Eaglecraft | No | 1-∞ | No | ByWorks Drive |
+| Deadshot | Yes | 2-8 | Yes | [deadshot.io](https://deadshot.io/) |
+| WatchDocumentaries | Yes | 1-2 | no | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
+| Utopia games | Yes/No | 1 | Is the proxy | Go [here]([url](https://utopia-byworks.koyeb.app/)) then click Games |
+| Doom | Yes | 1 | Yes | [archive.org](https://archive.org/details/doom-play) |
 
 
 # VPNs/Proxies
@@ -27,33 +27,32 @@ VPN ・・ (iOS only) 📱 (Reinstall once trial runs out) | [apple.com](apps.ap
 
 # Music
 
-- Apple Music
-- Soundcloud
-- Youtube Music (on non-school account)
-- Bandcamp
-- Discogs
-- Filmstro
+- [Apple Music](https://music.apple.com/us/browse)
+- [Soundcloud](https://soundcloud.com/)
+- [Youtube Music](https://music.youtube.com/) (on non-school account)
+- [Bandcamp](https://bandcamp.com/)
+- [Discogs](https://www.discogs.com/)
+- [Filmstro](https://filmstro.com/music)
 
 # Videos
 
-- iPlayer
-- Vimeo
-- DTube
-- Vevo
-- Playeur
-- Open Video
-- Internet Archive apparently??
+- [iPlayer](https://www.bbc.co.uk/iplayer)
+- [Vimeo](https://vimeo.com/)
+- [DTube](https://d.tube/)
+- [Vevo](https://www.hq.vevo.com/)
+- [Playeur](https://playeur.com/)
+- [Open Video](https://open-video.org/)
+- ~~[Internet Archive](https://archive.org/details/movies)~~
 
 # Emulators
 
-- Utopia - scroll past HTML 5 games
-- Archive.org - MS-DOS Games
+- [Utopia](https://utopia-byworks.koyeb.app/) - scroll past HTML 5 games
+- [Archive.org](https://archive.org/details/softwarelibrary_msdos) - MS-DOS Games
 
 # Miscellaneous
 
--Funny screensaver - new shortcut > paste this -> C:\Windows\System32\Bubbles.scr > Open it :) (works with windows 10 home computers too)
+- Funny screensaver - new shortcut > paste this -> C:\Windows\System32\Bubbles.scr > Open it :) (works with windows 10 home computers too)
 
-MC SM
 # Homework
 
 The following table has a set of ways of cheating / efficiently doing homework.
@@ -62,5 +61,4 @@ Homework platform | Hack / Help | Possible on school devices
 ----------------- | ----------- | --------------------------
 Seneca | SenecaAnswer - fill in blanks for typing answers, make sure to double click the box and reload the page :) | Yes
 Bedrock | HTTP Request Blocker - skips the speech sections, greatly improving work speed. Add these two to the list: ```*://doestz6t6i0b1.cloudfront.net/blocks/audio/*``` and ```*://doestz6t6i0b1.cloudfront.net/site/audio/*``` | Yes
-DrFrostMaths | -DrCheat [Untested] - need to download and NOT unzip then import into Chrome extensions with developer mode on
--DFM Answer Tool [Untested] - python program | No
+DrFrostMaths | DrCheat [Untested] - need to download and NOT unzip then import into Chrome extensions with developer mode on; DFM Answer Tool [Untested] - python program | No
