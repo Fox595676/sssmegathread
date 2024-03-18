@@ -1,17 +1,20 @@
+<p align="center">
+<img src="https://github.com/Fox595676/sssmegthread/assets/81087203/abbbe2b2-7e4c-4a75-b719-869fea483187" width="100" height="100" >
+</p>
+<!--- ![byworks](https://github.com/Fox595676/sssmegthread/assets/81087203/abbbe2b2-7e4c-4a75-b719-869fea483187) --->
 
-
+$${\color{cyan}By\color{orange}Works\color{white}:\color{yellow}Liberum}$$
 
 # 🎮 Games
-
 Everyone suggests the following games/sites, request editing or send me or Luca requests to add more.
 
 | Game/Site | Requires internet | Players | Needs Proxy | Link(s) |
 | --------- | ----------------- | ------- | ----------- | ------- |
-| 🧊 Eaglercraft | ✗ | 1-∞ | ✗ | [This github page](https://github.com/Fox595676/eaglercraft-repo) |
-| ☠️ Deadshot | ✓ | 2-8 | ✓ | [deadshot.io](https://deadshot.io/) |
-| 📽️ WatchDocumentaries | ✓ | 1-2 | ✗ | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
-| 🎄 Utopia games | ✓/✗ | 1 | Is the proxy | Go [here](https://utopia-byworks.koyeb.app/) then click Games |
-| 🔫 Doom | Yes | 1 | ✓ | [archive.org](https://archive.org/details/doom-play) |
+| 🧊 Eaglercraft | No | 1-∞ | No | [This github page](https://github.com/Fox595676/eaglercraft-repo) |
+| ☠️ Deadshot | Yes | 2-8 | Yes | [deadshot.io](https://deadshot.io/) |
+| 📽️ WatchDocumentaries | Yes | 1-2 | No | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
+| 🎄 Utopia games | Yes/No | 1 | Is the proxy | Go [here](https://utopia-byworks.koyeb.app/) then click Games |
+| 🔫 Doom | Yes | 1 | Yes | [archive.org](https://archive.org/details/doom-play) |
 
 
 # 🌐 VPNs/Proxies
@@ -29,7 +32,7 @@ Proxy/VPN | Link | Latency | Speed
 
 - 🍏 [Apple Music](https://music.apple.com/us/browse)
 - ☁️ [Soundcloud](https://soundcloud.com/)
-- 🔺 [Youtube Music](https://music.youtube.com/) (on non-school account)
+- 🔺 [Youtube Music](https://music.youtube.com/) (on non-school account so invaluable on Chromebooks)
 - 🟦 [Bandcamp](https://bandcamp.com/)
 - 📀 [Discogs](https://www.discogs.com/)
 - 📽️ [Filmstro](https://filmstro.com/music)
@@ -51,7 +54,7 @@ Proxy/VPN | Link | Latency | Speed
 
 # 🍊 Miscellaneous
 
-- 🐡 Funny screensaver - new shortcut > paste this -> C:\Windows\System32\Bubbles.scr > Open it :) (works with windows 10 home computers too)
+- 🐡 Funny screensaver - new shortcut > paste this -> C:\Windows\System32\Bubbles.scr > Open it :3
 
 # 📘 Homework
 
@@ -61,4 +64,4 @@ Homework platform | Hack / Help | Possible on school devices
 ----------------- | ----------- | --------------------------
 🎆 [Seneca](app.senecalearning.com) | SenecaAnswer - fill in blanks for typing answers, make sure to double click the box and reload the page :) | Yes
 🔷 [Bedrock](app.bedrocklearning.org) | HTTP Request Blocker - skips the speech sections, greatly improving work speed. Add these two to the list: ```*://doestz6t6i0b1.cloudfront.net/blocks/audio/*``` and ```*://doestz6t6i0b1.cloudfront.net/site/audio/*``` | Yes
-⛄ [DRF M](drfrostmaths.com) | DrCheat [Untested] - need to download and NOT unzip then import into Chrome extensions with developer mode on; DFM Answer Tool [Untested] - python program | No
+⛄ [DRF M](drfrostmaths.com) | [DrCheat](https://github.com/JolTheGreat/DrCheat) [Untested] - need to download and NOT unzip then import into Chrome extensions with developer mode on; [DFM Answer Tool](https://github.com/Asad-K/DFM-Answer-Tool) [Untested] - python program | No
