@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/Fox595676/sssmegthread/assets/81087203/abbbe2b2-7e4c-4a75-b719-869fea483187" width="100" height="100" >
 </p>
-<!--- ![byworks](https://github.com/Fox595676/sssmegthread/assets/81087203/abbbe2b2-7e4c-4a75-b719-869fea483187) --->
+<!--- Unused because no formatting or sizing options    ![byworks](https://github.com/Fox595676/sssmegthread/assets/81087203/abbbe2b2-7e4c-4a75-b719-869fea483187) --->
 
 $${\color{cyan}By\color{orange}Works\color{white}:\color{yellow}Liberum}$$
 
