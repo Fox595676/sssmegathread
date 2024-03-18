@@ -10,7 +10,7 @@ Everyone suggests the following games/sites, request editing or send me or Luca 
 
 | Game/Site | Requires internet | Players | Needs Proxy | Link(s) |
 | --------- | ----------------- | ------- | ----------- | ------- |
-| 🧊 Eaglercraft | No | 1-∞ | No | [This github page](https://github.com/Fox595676/eaglercraft-repo) |
+| 🧊 Eaglercraft | No | 1-∞ | No | [github.com](https://github.com/Fox595676/eaglercraft-repo) or [eaglercraft.com](eaglercraft.com) |
 | ☠️ Deadshot | Yes | 2-8 | Yes | [deadshot.io](https://deadshot.io/) |
 | 📽️ WatchDocumentaries | Yes | 1-2 | No | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
 | 🎄 Utopia games | Yes/No | 1 | Is the proxy | Go [here](https://utopia-byworks.koyeb.app/) then click Games |
