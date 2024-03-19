@@ -1,0 +1,37 @@
+! 2024-03-15 https://www.bbc.co.uk
+www.bbc.co.uk##.e16i5fd20.ssrcss-1p6tp05-ChameleonGlobalNavigationLinkList-En
+www.bbc.co.uk##.e140xmwz0.ssrcss-1j0a9ns-ChameleonGlobalNavigation
+www.bbc.co.uk##.esbu9dd2.ssrcss-1d8qy3e-Masthead
+www.bbc.co.uk##.ebbwlb0.ssrcss-qkzcfe-MenuContainer-PrimaryNavBarContainer.e17d5osh1
+www.bbc.co.uk##.ejnx8uh0.ssrcss-hzjlgx-GlobalFooterStyling
+www.bbc.co.uk##.e1x61rap2.ssrcss-10v3pqy-StyledWrapper
+www.bbc.co.uk##div.e1x17m8s0.ssrcss-1q7j2np-Wrapper:nth-of-type(3)
+www.bbc.co.uk##li:nth-of-type(2) > .eias33z1.ssrcss-10udvru-TabLink > .eias33z2.ssrcss-1ucpzri-TabContent
+
+! 2024-03-19 https://docs.google.com
+docs.google.com##gw-toolbarear
+docs.google.com###equatio-toolbar-shadow-host
+
+! 2024-03-19 https://app.bedrocklearning.org
+app.bedrocklearning.org###footer_actual
+app.bedrocklearning.org###footer_space
+app.bedrocklearning.org##.mobileBackground.dashNav
+app.bedrocklearning.org##.ltb-main--noImg.ltb-main
+app.bedrocklearning.org##header
+app.bedrocklearning.org##.lc-progress
+app.bedrocklearning.org##.pause_button
+app.bedrocklearning.org##.ltb-main
+
+! 2024-03-19 https://app.senecalearning.com
+app.senecalearning.com##.cGxpmv.sc-gswNZR
+app.senecalearning.com##.cMricF.sc-gswNZR
+app.senecalearning.com##div.drYQLD.sc-gswNZR:nth-of-type(5)
+app.senecalearning.com##.eMiGEA.sc-ZqGJI
+app.senecalearning.com##.WrappingCardsRow_mainRow__KlO2c
+app.senecalearning.com##.StudentPageRow__title-row
+app.senecalearning.com##div.StudentPageRow:nth-of-type(7)
+app.senecalearning.com##div.StudentPageRow:nth-of-type(6)
+app.senecalearning.com##div.drYQLD.sc-gswNZR:nth-of-type(2)
+
+! 2024-03-19 https://docs.google.com
+docs.google.com##.equatio-form-inject-button
