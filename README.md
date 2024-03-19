@@ -63,7 +63,13 @@ Proxy/VPN | Link | Latency | Speed
 
 These are some recommended extensions, curated by me and Luca, including the homework extensions.
 
+
 - 🛑 [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+    To get the optimised homework setting (in my opinion - don't do this if you don't like it)
+
+    Copy [block-static-filters.txt](https://raw.githubusercontent.com/Fox595676/sssmegthread/main/ublock-static-filters.txt) > `Click the settings icon within the extension` > `My Filters` > `Paste the text`
+
 - 🕶️ [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - 🐱 [Jambofy](https://chromewebstore.google.com/detail/jambofy/ecbedadooalalcgolmfgpnmphhccegei)
 
@@ -77,7 +83,7 @@ The following table has a set of ways of cheating / efficiently doing homework.
 Homework platform | Hack / Help | Possible on school devices
 ----------------- | ----------- | --------------------------
 🎆 [Seneca](app.senecalearning.com) | [SenecaAnswer](https://chromewebstore.google.com/detail/senecaanswer/aacmadajiomocfofkfpfjdcbbgdlonkc) - fill in blanks for typing answers, make sure to double click the box and reload the page :) | Yes
-🔷 [Bedrock](app.bedrocklearning.org) | [HTTP Request Blocker](https://github.com/clupasq/ChromeHttpRequestBlocker) - skips the speech sections, greatly improving work speed. Add these two to the list: ```*://doestz6t6i0b1.cloudfront.net/blocks/audio/*``` and ```*://doestz6t6i0b1.cloudfront.net/site/audio/*``` | Yes
+🔷 [Bedrock](app.bedrocklearning.org) | [HTTP Request Blocker](https://github.com/clupasq/ChromeHttpRequestBlocker) - skips the speech sections, greatly improving work speed. Add these two to the list: `*://doestz6t6i0b1.cloudfront.net/blocks/audio/*` and `*://doestz6t6i0b1.cloudfront.net/site/audio/*` | Yes
 ⛄ [DRF M](drfrostmaths.com) | [DrCheat](https://github.com/JolTheGreat/DrCheat) [Untested] - need to download and NOT unzip then import into Chrome extensions with developer mode on; [DFM Answer Tool](https://github.com/Asad-K/DFM-Answer-Tool) [Untested] - python program | No
 
 # 🤖 AI / Generative websites
