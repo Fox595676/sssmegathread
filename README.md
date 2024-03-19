@@ -53,7 +53,7 @@ Proxy/VPN | Link | Latency | Speed
 # 🕹️ Emulators
 
 - 🌐 [Utopia](https://utopia-byworks.koyeb.app/) - scroll past HTML 5 games
-- 🏛️ [Archive.org](https://archive.org/details/softwarelibrary_msdos) - MS-DOS Games
+- 🏛️ ~~[Archive.org](https://archive.org/details/softwarelibrary_msdos) - MS-DOS Games~~
 
 # 🍊 Miscellaneous
 
