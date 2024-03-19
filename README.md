@@ -5,7 +5,7 @@
 
 $${\color{cyan}By\color{orange}Works\color{white}:\color{yellow}Liberum}$$
 
-# 🫂 Discussion channel
+# 🧍 Discussion channel
 Go to **[this issue](https://github.com/Fox595676/sssmegthread/issues/1)** to chat to everyone, keep in mind that you will need to create a Github account though! Do not use the school email or any providers associated with it (e.g. Google), instead use your own :)
 
 # 🎮 Games
