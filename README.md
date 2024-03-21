@@ -74,21 +74,21 @@ These are some recommended extensions, curated by me and Luca, excluding the hom
 - 🔼 [CaretTab](https://chromewebstore.google.com/detail/cojpndognjdcakkimaloeealehpkljna)
 
 
-
 Only one of these works at a time
 - 🐱 [Jambofy](https://chromewebstore.google.com/detail/ecbedadooalalcgolmfgpnmphhccegei)
 - 👨‍🦲 [MrBeastify](https://chromewebstore.google.com/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb)
 - 🏆 [Matpatify](https://chromewebstore.google.com/detail/cgicnmnonpkpbgmboekkjdbckihlhajf)
 
-# 📘 Homework
+# 📘 Homework / Learning
 
-The following table has a set of ways of cheating / efficiently doing homework.
+The following table has a set of ways of cheating / efficiently doing homework etc.
 
-Homework platform | Hack / Help | Possible on school devices
+Learning Platform | Hack / Help | Possible on school devices
 ----------------- | ----------- | --------------------------
 🎆 [Seneca](app.senecalearning.com) | [SenecaAnswer](https://chromewebstore.google.com/detail/aacmadajiomocfofkfpfjdcbbgdlonkc) - fill in blanks for typing answers, make sure to double click the box and reload the page :) | Yes
 🔷 [Bedrock](app.bedrocklearning.org) | [HTTP Request Blocker](https://chromewebstore.google.com/detail/eckpjmeijpoipmldfbckahppeonkoeko) - skips the speech sections, greatly improving work speed. Add these two to the list: `*://doestz6t6i0b1.cloudfront.net/blocks/audio/*` and `*://doestz6t6i0b1.cloudfront.net/site/audio/*` | Yes
 ⛄ [DRF M](drfrostmaths.com) | [DrCheat](https://github.com/JolTheGreat/DrCheat) [Untested] - need to download and NOT unzip then import into Chrome extensions with developer mode on; [DFM Answer Tool](https://github.com/Asad-K/DFM-Answer-Tool) [Untested] - python program | No
+🧊 [Blooket](https://play.blooket.com/play) | [Blooket Hacks](github.com/therealgliz/blooket-hacks) - To use the Blooket hacks, find the hack you want (most likely [these ones](https://github.com/therealgliz/blooket-hacks/tree/main/gold) - the setPlayerGold doesn't function for now), copy all of the text, get [this extension](https://chromewebstore.google.com/detail/gamgadbdliolbhjdcfjjpjfjhgfnckbp), and paste the text into the bottom part, then `Save JS`.| Yes
 
 # 🤖 AI / Generative websites
 
