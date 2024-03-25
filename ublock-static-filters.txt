@@ -13,6 +13,7 @@ docs.google.com##gw-toolbarear
 docs.google.com###equatio-toolbar-shadow-host
 
 ! 2024-03-19 https://app.bedrocklearning.org
+||app.bedrocklearning.org/assets/img/template_images/106-background.jpg$image
 app.bedrocklearning.org###footer_actual
 app.bedrocklearning.org###footer_space
 app.bedrocklearning.org##.mobileBackground.dashNav
@@ -21,6 +22,17 @@ app.bedrocklearning.org##header
 app.bedrocklearning.org##.lc-progress
 app.bedrocklearning.org##.pause_button
 app.bedrocklearning.org##.ltb-main
+app.bedrocklearning.org###footer_actual
+app.bedrocklearning.org###footer_space
+app.bedrocklearning.org##.lc-progress
+app.bedrocklearning.org##div.lc-button-wrap:nth-of-type(1)
+app.bedrocklearning.org##header
+app.bedrocklearning.org##div.pause_line:nth-of-type(2)
+app.bedrocklearning.org##.pause_button
+app.bedrocklearning.org##.block-choose
+app.bedrocklearning.org##.mobileBackground.dashNav
+app.bedrocklearning.org##.msgIncorrect.msg
+app.bedrocklearning.org##.msgCorrect.msg
 
 ! 2024-03-19 https://app.senecalearning.com
 app.senecalearning.com##.cGxpmv.sc-gswNZR
