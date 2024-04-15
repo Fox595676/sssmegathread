@@ -27,9 +27,9 @@ The network speed and latency are built up using an average of 10 tests on Googl
 Proxy/VPN | Link | Latency | Speed
 --------- | ---- | ------- | ---
 ❎ No proxy/VPN | N/A | ~19 Ms | ~255 MBs ⬇️ ~320 MBs ⬆️
-🌐 Byworks Utopia | [utopia-byworks](utopia-byworks.koyeb.app) | ~3 Ms | ~40 MBs ⬇️ ~50 MBs ⬆️
+🌐 Byworks Utopia | [utopia-byworks](https://utopia-byworks.koyeb.app/) | ~3 Ms | ~40 MBs ⬇️ ~50 MBs ⬆️
 🌐 Replit Utopia | Ask Luca to start it | ~39 Ms | ~10 MBs ⬇️ ~70 MBs ⬆️
-📱 VPN ・・ (iOS only, reinstall once trial runs out) | [apple.com](apps.apple.com/gb/app/vpn/id1465229429) | ~124 Ms | ~20 MBs ⬇️ ~4 MBs ⬆️
+📱 VPN ・・ (iOS only, reinstall once trial runs out) | [apple.com](https://apps.apple.com/gb/app/vpn/id1465229429) | ~124 Ms | ~20 MBs ⬇️ ~4 MBs ⬆️
 
 # 🎵 Music
 
