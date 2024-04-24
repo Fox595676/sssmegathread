@@ -6,7 +6,7 @@
 $${\color{cyan}By\color{orange}Works\color{white}:\color{yellow}Liberum}$$
 
 # 🧍 Discussion channel
-Go to **[this issue](https://github.com/Fox595676/sssmegthread/issues/1)** to chat to everyone, keep in mind that you will need to create a Github account though! Do not use the school email or any providers associated with it (e.g. Google), instead use your own :)
+Go to **[this issue](https://github.com/Fox595676/sssmegthread/issues/1)** to chat to everyone, keep in mind that you will need to create a Github account though! Do not use the school email or any providers associated with it (e.g. Google), instead use your own :3
 
 # 🎮 Games
 Everyone suggests the following games/sites, request editing or send me or Luca requests to add more.
@@ -55,9 +55,6 @@ Proxy/VPN | Link | Latency | Speed
 - 🌐 [Utopia](https://utopia-byworks.koyeb.app/) - scroll past HTML 5 games
 - 🏛️ ~~[Archive.org](https://archive.org/details/softwarelibrary_msdos) - MS-DOS Games~~
 
-# 🍊 Miscellaneous
-
-- 🐡 Funny screensaver - new shortcut > paste this -> C:\Windows\System32\Bubbles.scr > Open it :3
 
 # 🏗️ Extensions
 
@@ -92,7 +89,7 @@ Learning Platform | Hack / Help | Possible on school devices
 
 # 🤖 AI / Generative websites
 
-The usual ChatGPT website will not work, as the login page is blocked, even with a proxy.
+~~The usual ChatGPT website will not work, as the login page is blocked, even with a proxy.~~ GPT is now unblocked! Thank you admins, we love AI :3
 
 AI | Needs Proxy | Type | Link
 -- | ------------ | ---- | ----
@@ -101,3 +98,7 @@ AI | Needs Proxy | Type | Link
 📁 Img2Go | No | Image | [img2go.com](https://www.img2go.com/ai-art-generator)
 📷 Unstable Diffusion (sign in) | No | Image | [unstability.ai](https://www.unstability.ai/)
 🤗 HuggingFace | Yes | AI platform | [huggingface.co](https://huggingface.co/)
+
+# 🍊 Miscellaneous
+
+- 🐡 Funny screensaver - new shortcut > paste this -> C:\Windows\System32\Bubbles.scr > Open it :3
