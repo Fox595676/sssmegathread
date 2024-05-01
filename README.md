@@ -71,6 +71,9 @@ AI | Needs Sign in | Needs Proxy | Link
 📁 Img2Go | No | No | [Image](https://www.img2go.com/ai-art-generator)
 📷 Unstable Diffusion | Yes | No| [Image](https://www.unstability.ai/)
 🤗 HuggingFace | No | No | [Platform](https://huggingface.co/)
+🐺 WolfFram\\|Alpha | No | Yes | [Text??](https://www.wolframalpha.com/)
+🌈 WebsimAI | Yes | No | [Website Generator](https://websim.ai/)
+
 
 # 🏗️ Extensions
 
