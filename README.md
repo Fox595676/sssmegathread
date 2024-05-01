@@ -55,6 +55,22 @@ Proxy/VPN | Link | Latency | Speed
 - 🌐 [Utopia](https://utopia-byworks.koyeb.app/) - scroll past HTML 5 games
 - 🏛️ ~~[Archive.org](https://archive.org/details/softwarelibrary_msdos) - MS-DOS Games~~
 
+# 🤖 AI / Generative websites
+
+*~~The usual ChatGPT website will not work, as the login page is blocked, even with a proxy.~~*
+
+GPT is now unblocked! Thank you admins, we love AI :3
+
+Most AI websites seem to be unblocked now, hopefully this means we can look into using them within a lesson setting!
+
+AI | Needs Sign in | Needs Proxy | Link
+-- | ------- | ----------- | ----
+☸️ ChatGPT | Yes | No | [Text](https://chat.openai.com/)
+🎲 Perchance | No | No | [Image](https://perchance.org/ai-text-to-image-generator), [Text](https://perchance.org/ai-text-generator)
+🐬 DeepAI | Only for video | No | [Image/Text](https://deepai.org/)
+📁 Img2Go | No | No | [Image](https://www.img2go.com/ai-art-generator)
+📷 Unstable Diffusion | Yes | No| [Image](https://www.unstability.ai/)
+🤗 HuggingFace | No | No | [Platform](https://huggingface.co/)
 
 # 🏗️ Extensions
 
@@ -86,18 +102,6 @@ Learning Platform | Hack / Help | Possible on school devices
 🔷 [Bedrock](app.bedrocklearning.org) | [HTTP Request Blocker](https://chromewebstore.google.com/detail/eckpjmeijpoipmldfbckahppeonkoeko) - skips the speech sections, greatly improving work speed. Add these two to the list: `*://doestz6t6i0b1.cloudfront.net/blocks/audio/*` and `*://doestz6t6i0b1.cloudfront.net/site/audio/*` | Yes
 ⛄ [DRF M](drfrostmaths.com) | [DrCheat](https://github.com/JolTheGreat/DrCheat) [Untested] - need to download and NOT unzip then import into Chrome extensions with developer mode on; [DFM Answer Tool](https://github.com/Asad-K/DFM-Answer-Tool) [Untested] - python program | No
 🧊 [Blooket](https://play.blooket.com/play) | [Blooket Hacks](https://github.com/therealgliz/blooket-hacks) - To use the Blooket hacks, find the hack you want (most likely [these ones](https://github.com/therealgliz/blooket-hacks/tree/main/gold) - the setPlayerGold doesn't function for now), copy all of the text, get [this extension](https://chromewebstore.google.com/detail/gamgadbdliolbhjdcfjjpjfjhgfnckbp), and paste the text into the bottom part, then `Save JS`.| Yes
-
-# 🤖 AI / Generative websites
-
-~~The usual ChatGPT website will not work, as the login page is blocked, even with a proxy.~~ GPT is now unblocked! Thank you admins, we love AI :3
-
-AI | Needs Proxy | Type | Link
--- | ------------ | ---- | ----
-🎲 Perchance | No | AI platform - linked is image | [perchance.org](https://perchance.org/ai-text-to-image-generator)
-🐬 DeepAI | Yes | Image / Text | [deepai.org](https://deepai.org/)
-📁 Img2Go | No | Image | [img2go.com](https://www.img2go.com/ai-art-generator)
-📷 Unstable Diffusion (sign in) | No | Image | [unstability.ai](https://www.unstability.ai/)
-🤗 HuggingFace | Yes | AI platform | [huggingface.co](https://huggingface.co/)
 
 # 🍊 Miscellaneous
 
