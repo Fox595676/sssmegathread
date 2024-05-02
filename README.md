@@ -108,4 +108,4 @@ Learning Platform | Hack / Help | Possible on school devices
 
 # 🍊 Miscellaneous
 
-- 🐡 Funny screensaver - new shortcut > paste this -> C:\Windows\System32\Bubbles.scr > Open it :3
+- 🐡 Funny screensaver - `New shortcut` > Paste `C:\Windows\System32\Bubbles.scr` > `Open it` :3
