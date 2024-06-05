@@ -8,18 +8,6 @@ $${\color{cyan}By\color{orange}Works\color{white}:\color{yellow}Liberum}$$
 # 🧍 Discussion channel
 Go to **[this issue](https://github.com/Fox595676/sssmegthread/issues/1)** to chat to everyone, keep in mind that you will need to create a Github account though! Do not use the school email or any providers associated with it (e.g. Google), instead use your own :3
 
-# 🎮 Games
-Everyone suggests the following games/sites, request editing or send me or Luca requests to add more.
-
-| Game/Site | Requires internet | Players | Needs Proxy | Link(s) |
-| --------- | ----------------- | ------- | ----------- | ------- |
-| 🧊 Eaglercraft | No | 1-∞ | No | [github.com](https://github.com/Fox595676/eaglercraft-repo) or [eaglercraft.com](eaglercraft.com) |
-| ☠️ Deadshot | Yes | 2-8 | Yes | [deadshot.io](https://deadshot.io/) |
-| 📽️ WatchDocumentaries | Yes | 1-2 | No | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
-| 🎄 Utopia games | Yes/No | 1 | Is the proxy | Go [here](https://utopia-byworks.koyeb.app/) then click Games |
-| 🔫 Doom | Yes | 1 | Yes | [archive.org](https://archive.org/details/doom-play) |
-
-
 # 🌐 VPNs/Proxies
 
 The network speed and latency are built up using an average of 10 tests on Google Speed test unless otherwise specified. Here is the download speed test chart and the upload speed test chart to show the testing.
@@ -30,6 +18,17 @@ Proxy/VPN | Link | Latency | Speed
 🌐 Byworks Utopia | [utopia-byworks](https://utopia-byworks.koyeb.app/) | ~3 Ms | ~40 MBs ⬇️ ~50 MBs ⬆️
 🌐 Replit Utopia | Ask Luca to start it | ~39 Ms | ~10 MBs ⬇️ ~70 MBs ⬆️
 📱 VPN ・・ (iOS only, reinstall once trial runs out) | [apple.com](https://apps.apple.com/gb/app/vpn/id1465229429) | ~124 Ms | ~20 MBs ⬇️ ~4 MBs ⬆️
+
+# 🎮 Games
+Everyone suggests the following games/sites, request editing or send me or Luca requests to add more.
+
+| Game/Site | Requires internet | Players | Needs Proxy | Link(s) |
+| --------- | ----------------- | ------- | ----------- | ------- |
+| 🧊 Eaglercraft | No | 1-∞ | No | [github.com](https://github.com/Fox595676/eaglercraft-repo) or [eaglercraft.com](eaglercraft.com) |
+| ☠️ Deadshot | Yes | 2-8 | Yes | [deadshot.io](https://deadshot.io/) |
+| 📽️ WatchDocumentaries | Yes | 1-2 | No | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
+| 🎄 Utopia games | Yes/No | 1 | Is the proxy | Go [here](https://utopia-byworks.koyeb.app/) then click Games |
+| 🔫 Doom | Yes | 1 | Yes | [archive.org](https://archive.org/details/doom-play) |
 
 # 🎵 Music
 
@@ -71,7 +70,7 @@ AI | Needs Sign in | Needs Proxy | Link
 📁 Img2Go | No | No | [Image](https://www.img2go.com/ai-art-generator)
 📷 Unstable Diffusion | Yes | No| [Image](https://www.unstability.ai/)
 🤗 HuggingFace | No | No | [Platform](https://huggingface.co/)
-🐺 WolfFram\\|Alpha | No | Yes | [Text??](https://www.wolframalpha.com/)
+🐺 WolfFram\\|Alpha | No | No | [Text??](https://www.wolframalpha.com/)
 🌈 WebsimAI | Yes | No | [Website Generator](https://websim.ai/)
 
 
