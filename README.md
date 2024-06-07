@@ -10,7 +10,7 @@ Go to **[this issue](https://github.com/Fox595676/sssmegthread/issues/1)** to ch
 
 # 🌐 VPNs/Proxies
 
-The network speed and latency are built up using an average of 10 tests on Google Speed test unless otherwise specified. Here is the download speed test chart and the upload speed test chart to show the testing.
+The network speed and latency are built up using an average of 10 tests on Google Speed test unless otherwise specified.
 
 Proxy/VPN | Link | Latency | Speed
 --------- | ---- | ------- | ---
@@ -20,7 +20,7 @@ Proxy/VPN | Link | Latency | Speed
 📱 VPN ・・ (iOS only, reinstall once trial runs out) | [apple.com](https://apps.apple.com/gb/app/vpn/id1465229429) | ~124 Ms | ~20 MBs ⬇️ ~4 MBs ⬆️
 
 # 🎮 Games
-Everyone suggests the following games/sites, request editing or send me or Luca requests to add more.
+Everyone suggests the following games/sites, request editing or talk to me to add more.
 
 | Game/Site | Requires internet | Players | Needs Proxy | Link(s) |
 | --------- | ----------------- | ------- | ----------- | ------- |
