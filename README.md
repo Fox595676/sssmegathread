@@ -5,9 +5,6 @@
 
 $${\color{cyan}By\color{orange}Works\color{white}:\color{yellow}Liberum}$$
 
-# 🧍 Discussion channel
-Go to **[this issue](https://github.com/Fox595676/sssmegthread/issues/1)** to chat to everyone, keep in mind that you will need to create a Github account though! Do not use the school email or any providers associated with it (e.g. Google), instead use your own :3
-
 # 🌐 VPNs/Proxies
 
 The network speed and latency are built up using an average of 10 tests on Google Speed test unless otherwise specified.
@@ -24,9 +21,9 @@ Everyone suggests the following games/sites, request editing or talk to me to ad
 
 | Game/Site | Requires internet | Players | Needs Proxy | Link(s) |
 | --------- | ----------------- | ------- | ----------- | ------- |
-| 🧊 Eaglercraft | No | 1-∞ | No | [github.com](https://github.com/Fox595676/eaglercraft-repo) or [eaglercraft.com](eaglercraft.com) |
-| ☠️ Deadshot | Yes | 2-8 | Yes | [deadshot.io](https://deadshot.io/) |
-| 📽️ WatchDocumentaries | Yes | 1-2 | No | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
+| 🧊 Eaglercraft | No | 1 - ∞ | No | [github.com](https://github.com/Fox595676/eaglercraft-repo) or [eaglercraft.com](eaglercraft.com) |
+| ☠️ Deadshot | Yes | 2 - 8 | Yes | [deadshot.io](https://deadshot.io/) |
+| 📽️ WatchDocumentaries | Yes | 1 - 2 | No | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
 | 🎄 Utopia games | Yes/No | 1 | Is the proxy | Go [here](https://utopia-byworks.koyeb.app/) then click Games |
 | 🔫 Doom | Yes | 1 | Yes | [archive.org](https://archive.org/details/doom-play) |
 
@@ -108,3 +105,6 @@ Learning Platform | Hack / Help | Possible on school devices
 # 🍊 Miscellaneous
 
 - 🐡 Funny screensaver - `New shortcut` > Paste `C:\Windows\System32\Bubbles.scr` > `Open it` :3
+
+# 🧍‍♀️ Discussion channel
+Go to **[this issue](https://github.com/Fox595676/sssmegthread/issues/1)** to chat to everyone, keep in mind that you will need to create a Github account though!
