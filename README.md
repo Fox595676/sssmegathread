@@ -12,7 +12,7 @@ The network speed and latency are built up using an average of 10 tests on Googl
 Proxy/VPN | Link | Latency | Speed
 --------- | ---- | ------- | ---
 ❎ No proxy/VPN | N/A | ~19 Ms | ~255 MBs ⬇️ ~320 MBs ⬆️
-🌐 Byworks Utopia | [utopia-byworks](https://utopia-byworks.koyeb.app/) | ~3 Ms | ~40 MBs ⬇️ ~50 MBs ⬆️
+🌐 Byworks Utopia | [utopia-byworks](https://utopiaweb.org/) | ~3 Ms | ~40 MBs ⬇️ ~50 MBs ⬆️
 🌐 Replit Utopia | Ask Luca to start it | ~39 Ms | ~10 MBs ⬇️ ~70 MBs ⬆️
 📱 VPN ・・ (iOS only, reinstall once trial runs out) | [apple.com](https://apps.apple.com/gb/app/vpn/id1465229429) | ~124 Ms | ~20 MBs ⬇️ ~4 MBs ⬆️
 
@@ -24,7 +24,7 @@ Everyone suggests the following games/sites, request editing or talk to me to ad
 | 🧊 Eaglercraft | No | 1 - ∞ | No | [github.com](https://github.com/Fox595676/eaglercraft-repo) or [eaglercraft.com](eaglercraft.com) |
 | ☠️ Deadshot | Yes | 2 - 8 | Yes | [deadshot.io](https://deadshot.io/) |
 | 📽️ WatchDocumentaries | Yes | 1 - 2 | No | [watchdocumentaries.com](https://watchdocumentaries.com/games/) |
-| 🎄 Utopia games | Yes/No | 1 | Is the proxy | Go [here](https://utopia-byworks.koyeb.app/) then click Games |
+| 🎄 Utopia games | Yes/No | 1 | Is the proxy | Go [here](https://utopiaweb.org/) then click Games |
 | 🔫 Doom | Yes | 1 | Yes | [archive.org](https://archive.org/details/doom-play) |
 
 # 🎵 Music
@@ -48,7 +48,7 @@ Everyone suggests the following games/sites, request editing or talk to me to ad
 
 # 🕹️ Emulators
 
-- 🌐 [Utopia](https://utopia-byworks.koyeb.app/) - scroll past HTML 5 games
+- 🌐 [Utopia](https://utopiaweb.org/) - scroll past HTML 5 games
 - 🏛️ ~~[Archive.org](https://archive.org/details/softwarelibrary_msdos) - MS-DOS Games~~
 
 # 🤖 AI / Generative websites
